@@ -1,0 +1,11 @@
+address,url,cap rate,cap rate with 10% reduced purchase price,cap rate with 15% reduced purchase price,price,zestimate,rentZestimate,beds,baths,totalExpenses,Unleveraged Operating Income
+"3210 Lakeview Blvd, Highland, MI 48356",https://www.zillow.com/homedetails/3210-Lakeview-Blvd-Highland-MI-48356/24366706_zpid/,0.30589,0.33809,0.35688,85000,108200,2954.0,3.0,1.0,5193.0375,27300.9625
+"8204 Farnum Ave, Warren, MI 48093",https://www.zillow.com/homedetails/8204-Farnum-Ave-Warren-MI-48093/2112204431_zpid/,0.10699,0.11825,0.12482,77500,187600,1450.0,3.0,2.0,7243.80625,8706.19375
+"12505 Glenfield St, Detroit, MI 48213",https://www.zillow.com/homedetails/12505-Glenfield-St-Detroit-MI-48213/88401827_zpid/,0.10342,0.11431,0.12066,97999,96500,1693.0,3.0,3.0,7981.25,10641.75
+"20612 Orangelawn St, Detroit, MI 48228",https://www.zillow.com/homedetails/20612-Orangelawn-St-Detroit-MI-48228/88318547_zpid/,0.0854,0.09439,0.09963,95000,77900,1500.0,3.0,2.0,7981.25,8518.75
+"14257 Bramell St, Detroit, MI 48223",https://www.zillow.com/homedetails/14257-Bramell-St-Detroit-MI-48223/88090069_zpid/,0.07474,0.0826,0.08719,94400,83100,1399.0,3.0,1.0,7981.25,7407.75
+"20083 Greydale Ave, Detroit, MI 48219",https://www.zillow.com/homedetails/20083-Greydale-Ave-Detroit-MI-48219/88749514_zpid/,0.06719,0.07426,0.07839,79900,130300,1238.0,3.0,2.0,7981.25,5636.75
+"11069 College St, Detroit, MI 48205",https://www.zillow.com/homedetails/11069-College-St-Detroit-MI-48205/88720244_zpid/,0.06607,0.07302,0.07708,83000,na,1249.0,3.0,1.0,7981.25,5757.75
+"145 W Cornell Ave, Pontiac, MI 48340",https://www.zillow.com/homedetails/145-W-Cornell-Ave-Pontiac-MI-48340/24404253_zpid/,0.06169,0.06818,0.07197,90000,86300,1034.0,3.0,1.0,5544.4,5829.6
+"14358 Rutherford St, Detroit, MI 48227",https://www.zillow.com/homedetails/14358-Rutherford-St-Detroit-MI-48227/88550589_zpid/,0.05522,0.06104,0.06443,90000,87300,1200.0,3.0,2.0,7981.25,5218.75
+"14832 Lauder St, Detroit, MI 48227",https://www.zillow.com/homedetails/14832-Lauder-St-Detroit-MI-48227/88182427_zpid/,0.04144,0.0458,0.04835,94400,53800,1099.0,3.0,1.0,7981.25,4107.75
